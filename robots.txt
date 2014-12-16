@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin.php
+
+Sitemap: http://hash2vote.ru/sitemap.xml
